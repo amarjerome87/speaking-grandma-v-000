@@ -8,7 +8,6 @@ def speak_to_grandma (phrase)
     return  "I LOVE YOU TOO PUMPKIN!"
   end 
 end
-end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
